@@ -1,7 +1,7 @@
 #GoLang Problems Challenge
 
-- [Two Sum](https://github.com/alibugrat/go-problems-challenge/blob/main/README.md#L9)
-- [Reverse Integer](https://github.com/alibugrat/go-problems-challenge/blob/main/README.md#L19)
+- [Two Sum](https://github.com/alibugrat/go-problems-challenge/blob/main/README.md#two-sum)
+- [Reverse Integer](https://github.com/alibugrat/go-problems-challenge/blob/main/README.md#reverse-integer)
 
 
 ## [Two Sum](https://github.com/alibugrat/go-problems-challenge/blob/main/challenges/twoSum.go)
