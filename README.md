@@ -1,6 +1,6 @@
 #GoLang Problems Challenge
 
-- [Two Sum](https://github.com/alibugrat/go-problems-challenge/edit/main/README.md#L8)
+- [Two Sum](https://github.com/alibugrat/go-problems-challenge/blob/main/README.md#L8)
 
 
 ## Two Sum
