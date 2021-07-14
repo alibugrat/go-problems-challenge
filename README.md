@@ -3,6 +3,7 @@
 - [Two Sum](https://github.com/alibugrat/go-problems-challenge/blob/main/README.md#two-sum)
 - [Reverse Integer](https://github.com/alibugrat/go-problems-challenge/blob/main/README.md#reverse-integer)
 - [Add Two Number](https://github.com/alibugrat/go-problems-challenge/blob/main/README.md#add-two-number)
+- [Length Of Longest Substring](https://github.com/alibugrat/go-problems-challenge/blob/main/README.md#length-of-longest-substring)
 
 
 ## [Two Sum](https://github.com/alibugrat/go-problems-challenge/blob/main/challenges/twoSum.go)
@@ -39,4 +40,21 @@ You may assume the two numbers do not contain any leading zero, except the numbe
 Input: l1 = [2,4,3], l2 = [5,6,4]
 Output: [7,0,8]
 Explanation: 342 + 465 = 807.
+```
+
+
+
+## [Length Of Longest Substring](https://github.com/alibugrat/go-problems-challenge/blob/main/challenges/LengthOfLongestSubstring.go)
+
+Given a string s, find the length of the longest substring without repeating characters.
+
+```sh
+Input: s = "abcabcbb"
+Output: 3
+Explanation: The answer is "abc", with the length of 3.
+
+Input: s = "pwwkew"
+Output: 3
+Explanation: The answer is "wke", with the length of 3.
+Notice that the answer must be a substring, "pwke" is a subsequence and not a substring.
 ```
