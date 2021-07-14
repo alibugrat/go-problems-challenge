@@ -1,9 +1,10 @@
 # GoLang Problems Challenge
 
-- [Two Sum](https://github.com/alibugrat/go-problems-challenge/blob/main/README.md#two-sum)
-- [Reverse Integer](https://github.com/alibugrat/go-problems-challenge/blob/main/README.md#reverse-integer)
-- [Add Two Number](https://github.com/alibugrat/go-problems-challenge/blob/main/README.md#add-two-number)
-- [Length Of Longest Substring](https://github.com/alibugrat/go-problems-challenge/blob/main/README.md#length-of-longest-substring)
+- [Two Sum](https://github.com/alibugrat/go-problems-challenge/blob/main/README.md#two-sum) - Easy
+- [Reverse Integer](https://github.com/alibugrat/go-problems-challenge/blob/main/README.md#reverse-integer) - Easy
+- [Add Two Number](https://github.com/alibugrat/go-problems-challenge/blob/main/README.md#add-two-number) - Medium
+- [Length Of Longest Substring](https://github.com/alibugrat/go-problems-challenge/blob/main/README.md#length-of-longest-substring) - Medium
+
 
 
 ## [Two Sum](https://github.com/alibugrat/go-problems-challenge/blob/main/challenges/twoSum.go)
