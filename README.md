@@ -4,6 +4,7 @@
 - [Reverse Integer](https://github.com/alibugrat/go-problems-challenge/blob/main/README.md#reverse-integer) - Easy
 - [Add Two Number](https://github.com/alibugrat/go-problems-challenge/blob/main/README.md#add-two-number) - Medium
 - [Length Of Longest Substring](https://github.com/alibugrat/go-problems-challenge/blob/main/README.md#length-of-longest-substring) - Medium
+- [Median of Two Sorted Arrays](https://github.com/alibugrat/go-problems-challenge/blob/main/README.md#median-of-two-sorted-arrays) - Hard
 
 
 
@@ -45,7 +46,7 @@ Explanation: 342 + 465 = 807.
 
 
 
-## [Length Of Longest Substring](https://github.com/alibugrat/go-problems-challenge/blob/main/challenges/LengthOfLongestSubstring.go)
+## [Length Of Longest Substring](https://github.com/alibugrat/go-problems-challenge/blob/main/challenges/lengthOfLongestSubstring.go)
 
 Given a string s, find the length of the longest substring without repeating characters.
 
@@ -58,4 +59,20 @@ Input: s = "pwwkew"
 Output: 3
 Explanation: The answer is "wke", with the length of 3.
 Notice that the answer must be a substring, "pwke" is a subsequence and not a substring.
+```
+
+## [Median of Two Sorted Arrays](https://github.com/alibugrat/go-problems-challenge/blob/main/challenges/medianOfTwoSortedArrays.go)
+
+Given two sorted arrays nums1 and nums2 of size m and n respectively, return the median of the two sorted arrays.
+
+The overall run time complexity should be O(log (m+n)).
+
+```sh
+Input: nums1 = [1,3], nums2 = [2]
+Output: 2.00000
+Explanation: merged array = [1,2,3] and median is 2.
+
+Input: nums1 = [1,2], nums2 = [3,4]
+Output: 2.50000
+Explanation: merged array = [1,2,3,4] and median is (2 + 3) / 2 = 2.5.
 ```
